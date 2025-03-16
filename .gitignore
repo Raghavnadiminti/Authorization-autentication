@@ -7,6 +7,9 @@
 render.yaml
 # production
 /build
+routes.js 
+server.js
+socket.js 
 
 # misc
 .DS_Store
